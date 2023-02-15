@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <View
+        android:id="@+id/rectangle_6"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/rectangle_7"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="<- Detail Game"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="7dp" />
+
+    <ImageView
+        android:layout_width="74dp"
+        android:layout_height="74dp"
+        android:src="@drawable/apex"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="75dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Apex Legend Mobile"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="106dp"
+        tools:layout_editor_absoluteY="89dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="242dp"
+        android:src="@drawable/bgapex"
+        tools:layout_editor_absoluteX="65dp"
+        tools:layout_editor_absoluteY="162dp" />
+
+    <View
+        android:id="@+id/rectangle_2"
+        android:layout_width="112dp"
+        android:layout_height="51dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/kotak"
+        tools:layout_editor_absoluteX="149dp"
+        tools:layout_editor_absoluteY="404dp" />
+
+    <View
+        android:id="@+id/rectangle_10"
+        android:layout_width="112dp"
+        android:layout_height="51dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/kotak"
+        tools:layout_editor_absoluteX="283dp"
+        tools:layout_editor_absoluteY="404dp" />
+
+    <View
+        android:id="@+id/rectangle_11"
+        android:layout_width="112dp"
+        android:layout_height="51dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/kotak"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="404dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4,2"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="414dp" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="26dp"
+        android:src="@drawable/star"
+        tools:layout_editor_absoluteX="29dp"
+        tools:layout_editor_absoluteY="414dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="24dp"
+        android:text="10 jt++"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="174dp"
+        tools:layout_editor_absoluteY="417dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FPS"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="325dp"
+        tools:layout_editor_absoluteY="414dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About This Game"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="465dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Berada dalam dunia Apex Legends™ yang imersif, Apex Legends Mobile adalah game shooter Battle Royale strategis yang menampilkan gameplay berbasis karakter legendaris, pertarungan pasukan terbaik di kelasnya, dan pertarungan cepat yang mengukuhkan posisi game sebagai salah satu shooter teratas, semuanya di dalam ponsel.
+
+Gameplay multipemain memungkinkan pemain untuk bergabung dengan dua teman dan bersaing dengan pemain seluler lainnya. Gabungkan keterampilan unik setiap Legend untuk menguasai peran kelompok, mensinergikan permainan, dan mendominasi Permainan Apex Legends.
+
+FITUR SELULER APEX LEGENDS
+
+GAMEPLAY STRATEGIS DENGAN LEGENDS IKONIS
+- Battle Royale, strategi, dan permainan pasukan taktis "
+        android:textSize="14sp"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="499dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

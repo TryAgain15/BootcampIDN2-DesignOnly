@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/rectangle_12"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/rectangle_7" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="<- Detail Game"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="7dp" />
+
+    <TextView
+        android:layout_width="379dp"
+        android:layout_height="278dp"
+        android:text="adalah inti dari DNA kami!
+- Aksi pahlawan shooter FPS & TPS dengan gudang persenjataan eksotis, peralatan, dan kemampuan taktis
+- Bertarung dengan senapan yang sesuai dengan gaya bermainmu! SMG, Assault Rifle, LMG, atau Shotgun
+- Pertandingan arena membutuhkan pilihan strategis yang serba cepat untuk bertahan hidup
+- Para Legends menunggumu! Pilih dari berbagai Legends favorit serta karakter eksklusif di dalam versi ponsel ini
+- Kuasai setiap karakter dengan kemampuan dan kepribadian unik untuk menemukan Legend yang sesuai dengan berbagai gaya bermain
+
+PAHLAWAN SHOOTER MULTIPEMAIN BERBASIS TIM- Aksi PvP
+- Bergabung dengan dua pemain lain dalam permainan tim yang kompetitif
+- Buat regu legendaris dengan menggabungkan keahlian unik masing-masing rekan tim
+- Permainan pasukan multipemain dengan kombinasi strategis dan taktik yang berevolusi
+- Bertarung dan bergabung dengan teman dan pemain untuk menguasai peran tim dalam game royale pertempuran epik"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="83dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developer"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="382dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Respawn Entertainment"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="416dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Publisher"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="6dp"
+        tools:layout_editor_absoluteY="459dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="By ELECTRONIC ARTS"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="497dp" />
+
+    <ImageView
+        android:layout_width="246dp"
+        android:layout_height="195dp"
+        android:src="@drawable/img_1"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="542dp" />
+
+    <ImageView
+        android:layout_width="252dp"
+        android:layout_height="200dp"
+        android:src="@drawable/img_2"
+        tools:layout_editor_absoluteX="260dp"
+        tools:layout_editor_absoluteY="542dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
